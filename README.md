@@ -100,11 +100,5 @@ echo $MY_VAR
 - `export` → Sets an environment variable.
 - `echo $MY_VAR` → Displays the variable value.
 
----
 
-# Submission Instructions
 
-✅ Take **screenshots** while running each command.  
-✅ Paste screenshots + commands + explanations in **Google Docs or Word Doc**.  
-✅ Upload the same to **GitHub** (create a repo named `linux-commands-assignment`).  
-✅ Share **Google Doc link + GitHub repo link** as submission.  
